@@ -1,5 +1,5 @@
 import requests
-from colorama import init, fore, back
+from colorama import init, Fore, Back
 
 init() 
 
